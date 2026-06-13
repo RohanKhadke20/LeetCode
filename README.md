@@ -13,3 +13,15 @@ Welcome to my repository tracking my journey through Data Structures and Algorit
 - [ ] Improve time and space complexity efficiency
 
 *Automated with [LeetHub v2](https://github.com/arunanderson/LeetHub-v2)*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/RohanKhadke20/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/RohanKhadke20/LeetCode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
