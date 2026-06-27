@@ -21,6 +21,7 @@ Welcome to my repository tracking my journey through Data Structures and Algorit
 | ------- |
 | [0001-two-sum](https://github.com/RohanKhadke20/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/RohanKhadke20/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RohanKhadke20/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,4 +46,8 @@ Welcome to my repository tracking my journey through Data Structures and Algorit
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RohanKhadke20/LeetCode/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RohanKhadke20/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
