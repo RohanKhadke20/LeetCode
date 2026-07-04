@@ -29,6 +29,7 @@ Welcome to my repository tracking my journey through Data Structures and Algorit
 | ------- |
 | [0001-two-sum](https://github.com/RohanKhadke20/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/RohanKhadke20/LeetCode/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/RohanKhadke20/LeetCode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Welcome to my repository tracking my journey through Data Structures and Algorit
 | [0014-longest-common-prefix](https://github.com/RohanKhadke20/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/RohanKhadke20/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/RohanKhadke20/LeetCode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/RohanKhadke20/LeetCode/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -64,4 +66,8 @@ Welcome to my repository tracking my journey through Data Structures and Algorit
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/RohanKhadke20/LeetCode/tree/master/2413-smallest-even-multiple) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/RohanKhadke20/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
