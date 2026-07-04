@@ -35,6 +35,7 @@ Welcome to my repository tracking my journey through Data Structures and Algorit
 | [0009-palindrome-number](https://github.com/RohanKhadke20/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/RohanKhadke20/LeetCode/tree/master/0013-roman-to-integer) |
 | [2235-add-two-integers](https://github.com/RohanKhadke20/LeetCode/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/RohanKhadke20/LeetCode/tree/master/2413-smallest-even-multiple) |
 ## String
 |  |
 | ------- |
@@ -58,4 +59,8 @@ Welcome to my repository tracking my journey through Data Structures and Algorit
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/RohanKhadke20/LeetCode/tree/master/1929-concatenation-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/RohanKhadke20/LeetCode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
