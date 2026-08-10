@@ -36,6 +36,7 @@ Welcome to my repository tracking my journey through Data Structures and Algorit
 | ------- |
 | [0009-palindrome-number](https://github.com/RohanKhadke20/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/RohanKhadke20/LeetCode/tree/master/0013-roman-to-integer) |
+| [0509-fibonacci-number](https://github.com/RohanKhadke20/LeetCode/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/RohanKhadke20/LeetCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/RohanKhadke20/LeetCode/tree/master/2413-smallest-even-multiple) |
 ## String
@@ -76,4 +77,16 @@ Welcome to my repository tracking my journey through Data Structures and Algorit
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RohanKhadke20/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/RohanKhadke20/LeetCode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/RohanKhadke20/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/RohanKhadke20/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
