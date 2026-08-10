@@ -24,6 +24,7 @@ Welcome to my repository tracking my journey through Data Structures and Algorit
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RohanKhadke20/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RohanKhadke20/LeetCode/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/RohanKhadke20/LeetCode/tree/master/0217-contains-duplicate) |
+| [1480-running-sum-of-1d-array](https://github.com/RohanKhadke20/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/RohanKhadke20/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -114,4 +115,8 @@ Welcome to my repository tracking my journey through Data Structures and Algorit
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RohanKhadke20/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/RohanKhadke20/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
