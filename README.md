@@ -23,6 +23,7 @@ Welcome to my repository tracking my journey through Data Structures and Algorit
 | [0014-longest-common-prefix](https://github.com/RohanKhadke20/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RohanKhadke20/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RohanKhadke20/LeetCode/tree/master/0027-remove-element) |
+| [0217-contains-duplicate](https://github.com/RohanKhadke20/LeetCode/tree/master/0217-contains-duplicate) |
 | [1929-concatenation-of-array](https://github.com/RohanKhadke20/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ Welcome to my repository tracking my journey through Data Structures and Algorit
 | [0001-two-sum](https://github.com/RohanKhadke20/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RohanKhadke20/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/RohanKhadke20/LeetCode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/RohanKhadke20/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RohanKhadke20/LeetCode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -78,6 +80,7 @@ Welcome to my repository tracking my journey through Data Structures and Algorit
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/RohanKhadke20/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RohanKhadke20/LeetCode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
